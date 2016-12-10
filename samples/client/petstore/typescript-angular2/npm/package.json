@@ -1,6 +1,10 @@
 {
   "name": "@swagger/angular2-typescript-petstore",
+<<<<<<< HEAD
   "version": "0.0.1-SNAPSHOT.201611201817",
+=======
+  "version": "0.0.1-SNAPSHOT.201612061134",
+>>>>>>> swagger-api/master
   "description": "swagger client for @swagger/angular2-typescript-petstore",
   "author": "Swagger Codegen Contributors",
   "keywords": [

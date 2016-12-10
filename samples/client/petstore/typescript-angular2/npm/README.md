@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ## @swagger/angular2-typescript-petstore@0.0.1-SNAPSHOT.201611201817
+=======
+## @swagger/angular2-typescript-petstore@0.0.1-SNAPSHOT.201612061134
+>>>>>>> swagger-api/master
 
 ### Building
 
@@ -19,7 +23,11 @@ navigate to the folder of your consuming project and run one of next commando's.
 _published:_
 
 ```
+<<<<<<< HEAD
 npm install @swagger/angular2-typescript-petstore@0.0.1-SNAPSHOT.201611201817 --save
+=======
+npm install @swagger/angular2-typescript-petstore@0.0.1-SNAPSHOT.201612061134 --save
+>>>>>>> swagger-api/master
 ```
 
 _unPublished (not recommended):_
